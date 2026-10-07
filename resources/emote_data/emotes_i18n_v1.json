@@ -318,6 +318,16 @@
       "en": { "command": "/whistle", "name": "Whistle" },
       "de": { "command": "/pfeifen", "name": "Pfeifen" },
       "fr": { "command": "/siffler", "name": "Siffler" },
-      "es": { "command": "/silbido", "name": "Silbido" } }
+      "es": { "command": "/silbido", "name": "Silbido" } },
+    { "id": "clap", "is_core": false, "targetable": false,
+      "en": { "command": "/clap", "name": "Clap" } },
+    { "id": "firedance", "is_core": false, "targetable": false, 
+      "en": { "command": "/firedance", "name": "Fire Dance" } },
+    { "id": "fingerguns", "is_core": false, "targetable": false, 
+      "en": { "command": "/fingerguns", "name": "Finger Guns" } },
+    { "id": "lean", "is_core": false, "targetable": false,
+      "en": { "command": "/lean", "name": "Lean" } },
+    { "id": "popcorn", "is_core": false, "targetable": false,
+      "en": { "command": "/popcorn", "name": "Popcorn" } }
   ]
 }
