@@ -352,6 +352,16 @@
       "en": { "command": "/transform", "name": "Transform" },
       "de": { "command": "/verwandeln", "name": "Verwandeln" },
       "fr": { "command": "/transformemoi", "name": "Transforme-moi" },
-      "es": { "command": "/transformación", "name": "Transformación" } }
+      "es": { "command": "/transformación", "name": "Transformación" } },
+    { "id": "clap", "is_core": false, "targetable": false, "unlock_item": 110169, "wiki_slug": "%22/Clap%22_Emote_Tome",
+      "en": { "command": "/clap", "name": "Clap" } },
+    { "id": "firedance", "is_core": false, "targetable": false, "unlock_item": 110110, "wiki_slug": "%22/FireDance%22_Emote_Tome",
+      "en": { "command": "/firedance", "name": "Fire Dance" } },
+    { "id": "fingerguns", "is_core": false, "targetable": false, "unlock_item": 109638, "wiki_slug": "%22/FingerGuns%22_Emote_Tome",
+      "en": { "command": "/fingerguns", "name": "Finger Guns" } },
+    { "id": "lean", "is_core": false, "targetable": false, "unlock_item": 110078, "wiki_slug": "%22/Lean%22_Emote_Tome",
+      "en": { "command": "/lean", "name": "Lean" } },
+    { "id": "popcorn", "is_core": false, "targetable": false, "unlock_item": 109895, "wiki_slug": "%22/Popcorn%22_Emote_Tome",
+      "en": { "command": "/popcorn", "name": "Popcorn" } }
   ]
 }
